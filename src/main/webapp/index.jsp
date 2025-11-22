@@ -794,11 +794,11 @@
                     <li class="dropdown">
                         <a href="#"><i class="fas fa-th-large"></i> Categories <i class="fas fa-chevron-down"></i></a>
                         <div class="dropdown-content">
-                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
-                            <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
-                            <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
-                            <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
+                            <a href="#"><i class="fas fa-mobile-alt"></i> phonelu</a>
+                            <a href="#"><i class="fas fa-laptop"></i> Laptoplu</a>
+                            <a href="#"><i class="fas fa-tshirt"></i> Battalu</a>
+                            <a href="#"><i class="fas fa-headphones"></i> Vasthuvulu</a>
+                            <a href="#"><i class="fas fa-shoe-prints"></i> cheppulu</a>
                             <a href="#"><i class="fas fa-watch"></i> Accessories</a>
                         </div>
                     </li>
@@ -845,27 +845,27 @@
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>Smartphones</h3>
+                <h3>phonelu</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
-                <h3>Laptops</h3>
+                <h3>Laptoplu</h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-tshirt"></i></div>
-                <h3>Clothing</h3>
+                <h3>Battalu</h3>
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-headphones"></i></div>
-                <h3>Gadgets</h3>
+                <h3>Vasthuvulu</h3>
                 <p>Smart devices for modern life</p>
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
-                <h3>Footwear</h3>
+                <h3>cheppulu</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
             <div class="category-card">
@@ -876,10 +876,10 @@
         </div>
     </section>
 
-    <!-- ట్రెండింగ్ ఉత్పత్తులు -->
+    <!-- trending uthpatthulu -->
     <section class="container">
         <div class="section-title">
-            <h2>ట్రెండింగ్ ఉత్పత్తులు</h2>
+            <h2>trending uthpatthulu</h2>
             <p>Discover what's popular right now</p>
         </div>
         
@@ -932,7 +932,7 @@
                 </div>
             </div>
             <div class="product-card">
-                <span class="product-badge">Bestseller</span>
+                <span class="product-badge">athutthama ammakam</span>
                 <img src="https://images.unsplash.com/photo-1585386959984-a4155224a1ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Perfume" class="product-img">
                 <div class="product-info">
                     <h3>Chanel No. 5</h3>
