@@ -876,10 +876,10 @@
         </div>
     </section>
 
-    <!-- Trending Products -->
+    <!-- ట్రెండింగ్ ఉత్పత్తులు -->
     <section class="container">
         <div class="section-title">
-            <h2>Trending Products</h2>
+            <h2>ట్రెండింగ్ ఉత్పత్తులు</h2>
             <p>Discover what's popular right now</p>
         </div>
         
